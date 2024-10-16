@@ -85,11 +85,7 @@
 
 - The Web UI is very basic and is only meant for testing the API.
 
-### System Design
 
-<p align="center">
-    <img alt="System Design" src="https://cdn.discordapp.com/attachments/808766340373807124/1260216258826207232/Untitled_-_Frame_1.jpg?ex=668e8359&is=668d31d9&hm=d0c29f31ff55e81fed4bcb316218faf530e56e1a10e973b4917a964745d6be19&" target="_blank" />
-</p>
 
 ### Features Implemented
 
